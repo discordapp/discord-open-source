@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "dolt.svg",
+      "title": "Dolt",
+      "quote": "Discord connects us to our customers in real time, and has converted many curious experimenters to production Dolt users. We use it for bug reports, sales, and to coordinate our dataset bounty program.",
+      "inviteCode": "RFwfYpu",
+      "githubUrl": "https://github.com/dolthub/dolt"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
