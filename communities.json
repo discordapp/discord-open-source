@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "stream-pi.png",
+      "title": "Stream-Pi",
+      "quote": "Stream-Pi uses Discord as a primary platform for providing support and fast communication among team members. It provides excellent VoIP and Screen share service for absolutely free.",
+      "inviteCode": "BExqGmk",
+      "githubUrl": "https://github.com/stream-pi"
     }
   ]
 }
