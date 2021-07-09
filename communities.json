@@ -744,6 +744,13 @@
       "githubUrl": "https://github.com/tokio-rs"
     },
     {
+      "logo": "Files.png",
+      "title": "Files",
+      "quote": "We use Discord to plan new features and to communicate with users.",
+      "inviteCode": "files",
+      "githubUrl": "https://github.com/files-community/Files"
+    },
+    {
       "logo": "testinglibrary.png",
       "title": "Testing Library",
       "quote": "The Testing Library support community has moved from Spectrum to Discord, allowing for simpler realtime discussions and additional channels for collaborators and maintainers",
