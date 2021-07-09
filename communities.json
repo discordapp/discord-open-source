@@ -646,6 +646,13 @@
       "githubUrl": "https://github.com/nestjs"
     },
     {
+      "logo": "zio.png",
+      "title": "ZIO",
+      "quote": "Discord has helped our open source project succeed as our core developers are able to use it effectively to collaborate. Discord has also been catalyst to help our community grow enabling users of our project to communicate with us effectively, learning to use our project and getting help when they need.",
+      "inviteCode": "2ccFBr4",
+      "githubUrl": "https://github.com/zio"
+    },
+    {
       "logo": "disease-sh.svg",
       "title": "disease.sh",
       "quote": "Discord helped us find bugs and support users of our API and help them build their applications.",
